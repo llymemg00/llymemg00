@@ -47,5 +47,3 @@
 © 2026 llymemg00 • 
 
 </div>
-
-![Header](https://capsule-render.vercel.app/api?type=waving&height=298&color=2d2e35&text=llymemg00&textBg=false&fontColor=FFFFF4&reversal=true&section=header)

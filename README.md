@@ -1,7 +1,7 @@
 <div align="center">
 
 # llymemg00
-### Resource Pack | Moding, Site | Backend Developer
+### Resource Pack | Site | Backend Developer
 
 ---
 
@@ -23,6 +23,7 @@
 ### AI & Data
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=fff)](#)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor)](#)
 
 ### Infrastructure & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -35,11 +36,11 @@
 *I'm open to communication, learning, and future collaborations.*
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ваш@email.com)
-[![Website](https://img.shields.io/badge/Website-faperr.pp.ua-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://faperr.pp.ua)
-[![Telegram](https://img.shields.io/badge/Telegram-@faperr-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/faperr)
+[![Website](https://img.shields.io/badge/Website-faperr.pp.ua-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://)
+[![Telegram](https://img.shields.io/badge/Telegram-@faperr-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/llymemg00)
 
 ---
 
-© 2025 Faperr • Built with 💚 in Russia
+© 2026 llymemg00 • 
 
 </div>

@@ -36,7 +36,7 @@
 *I'm open to communication, learning, and future collaborations.*
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ваш@email.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@faperr-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/llymemg00)
+[![Telegram](https://img.shields.io/badge/Telegram-@llymemg00-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/llymemg00)
 
 ---
 

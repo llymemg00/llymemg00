@@ -2,8 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:2a2a2a,100:3f3f46&height=220&section=header&text=llymemg00&fontSize=80&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=twinkling&desc=Site%20%7C%20Backend%20Developer&descSize=18&descAlign=50&descAlignY=60&stroke=71717a&strokeWidth=1)
 
- 🐧 **Linux | Site**
-
 ---
 
 ## 🛠️ Tech Stack

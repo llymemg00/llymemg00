@@ -47,5 +47,3 @@
 © 2026 llymemg00 • 
 
 </div>
-
-![Header](https://capsule-render.vercel.app/api?type=soft&color=1a1a1c&height=200&section=header&text=Faperr&fontSize=70&desc=Resource%20Pack%20|%20Moding,%20Site%20|%20Backend%20Developer&descSize=20&descAlignY=70)

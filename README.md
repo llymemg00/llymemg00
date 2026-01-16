@@ -5,7 +5,7 @@
 
 ---
 
-🌿 ** linux | Site **
+🌿 **Linux | Site**
 
 ---
 

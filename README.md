@@ -3,7 +3,6 @@
 # llymemg00
 ### Resource Pack | Site | Backend Developer
 
----
 
  🐧 **Linux | Site**
 

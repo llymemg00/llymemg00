@@ -40,7 +40,7 @@
 
 ---
 
-© 2026 llymemg00 • 
+© 2026 llymemg00  
 
 </div>
 

@@ -5,7 +5,7 @@
 
 ---
 
-🌿 **Resource Pack | Moding, Site**
+🌿 ** | **
 
 ---
 

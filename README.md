@@ -48,4 +48,4 @@
 
 </div>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=298&color=2d2e35&text=llymemg00&textBg=false&fontColor=FFFFF4&reversal=true&section=header&animation=twinkling&stroke=0e1014&strokeWidth=0)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:2a2a2a,100:3f3f46&height=220&section=header&text=Faperr&fontSize=80&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=twinkling&desc=Resource%20Pack%20%7C%20Moding%2C%20Site%20%7C%20Backend%20Developer&descSize=18&descAlign=50&descAlignY=60&stroke=71717a&strokeWidth=1)
